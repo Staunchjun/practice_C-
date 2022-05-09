@@ -3,4 +3,4 @@ project(test_data_stream)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(test_data_stream main.cpp DataStream.cpp DataStream.h ThreadTask.cpp ThreadTask.h)
+add_executable(test_data_stream main.cpp DataStream.h ThreadTask.cpp ThreadTask.h)
